@@ -3,13 +3,7 @@
 - 🤖 Meu nome é Ryan, tenho 20 anos, sou apaixonado por tecnologia e inovação.
 - 💻 Dev Front-end
 - 📍 Atualmente moro na cidade de Belo Jardim - Pernambuco - Brasil.
-
-<div>
-  <a href="https://github.com/RyanCavalcanti">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=ryancavalcanti&anuraghazra&show_icons=true&theme=transparent"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancavalcanti&anuraghazra&layout=compact&theme=transparent"/>
-</div>
-    
+ 
 <div style="display: inline_block"> <br>
   <img align="center" alt="Ryan-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ryan-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
