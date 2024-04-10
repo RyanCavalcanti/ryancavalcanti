@@ -14,7 +14,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,sass,js,ts,styledcomponents,react,nextjs,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,sass,js,ts,styledcomponents,react,nodejs,postgres)](https://skillicons.dev)
 
 Here you'll find some projects focused in the following technologies:
 <p>-HTML</p> 
@@ -24,6 +24,5 @@ Here you'll find some projects focused in the following technologies:
 <p>-TypeScript</p>
 <p>-Styled Components</p>
 <p>-React</p>
-<p>-NextJS</p>
 <p>-NodeJS</p>
 <p>-PostgreSQL</p>
