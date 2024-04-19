@@ -1,7 +1,7 @@
 ### Hey! Welcome to my Github 😎
 <hr>
 
-<p>👨‍💻 Freelance Full Stack Developer at <a href="https://www.isokemedia.com" target="_blank">Isoke Media</a></p>
+<p>👨‍💻 Freelance Full Stack Developer</p>
 
 ##
 
